@@ -1,3 +1,5 @@
+![Analia Leyez developer](https://github.com/AnaliaLeyez/AnaliaLeyez/assets/124401921/06d177e1-522c-455c-b3d3-c98d03e6704b)
+
 - 👋 Hi, I’m @AnaliaLeyez
 - 👀 Currently looking for an opportunity as a software developer / Web programmer. 
 - 🤓 I am pursuing a University degree as a technician in Programming at UTN (where I mainly use C++).
