@@ -1,4 +1,4 @@
-![Analia Leyez developer](https://github.com/AnaliaLeyez/AnaliaLeyez/assets/124401921/06d177e1-522c-455c-b3d3-c98d03e6704b)
+![Leyez_Analia_developer](https://github.com/AnaliaLeyez/AnaliaLeyez/assets/124401921/51ea8547-c8f8-470e-b238-6921b48c6add)
 
 - 👋 Hi, I’m @AnaliaLeyez
 - 👀 Currently looking for an opportunity as a software developer / Web programmer. 
