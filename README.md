@@ -1,5 +1,3 @@
-![Leyez_Analia_developer](https://github.com/AnaliaLeyez/AnaliaLeyez/assets/124401921/51ea8547-c8f8-470e-b238-6921b48c6add)
-
 - 👋 Hi, I’m @AnaliaLeyez
 - 👀 Currently looking for an opportunity as a software developer / Web programmer.
 - 🛠️ My portfolio: https://leyez-analia.vercel.app/ 
