@@ -1,7 +1,8 @@
 ![Leyez_Analia_developer](https://github.com/AnaliaLeyez/AnaliaLeyez/assets/124401921/51ea8547-c8f8-470e-b238-6921b48c6add)
 
 - 👋 Hi, I’m @AnaliaLeyez
-- 👀 Currently looking for an opportunity as a software developer / Web programmer. 
+- 👀 Currently looking for an opportunity as a software developer / Web programmer.
+- 🛠️ My portfolio: https://leyez-analia.vercel.app/ 
 - 🤓 I am pursuing a University degree as a technician in Programming at UTN (where I mainly use C++).
 - 🤓 I recently completed a Fullstack course with JavaScript and Node.js at Codo a Codo, among other courses.
 - 🛠️ Additionally, I have experience as a Math teacher and I'm specialist in that field.
